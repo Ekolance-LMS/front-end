@@ -1,6 +1,6 @@
 ---
-title: Pricing
-layout: pricing
+title: Commitment
+layout: commitment
 draft: false
 plans:
 - title: Basic Plan
