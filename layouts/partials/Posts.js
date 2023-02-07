@@ -71,7 +71,7 @@ const Posts = ({ posts }) => {
             href={`/${program_folder}/${post.slug}`}
             rel=""
           >
-            Hop In!
+            Learn more
           </Link>
         </div>
       ))}
