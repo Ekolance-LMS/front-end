@@ -17,13 +17,13 @@
   "nav_button": {
     "enable": true,
     "label": "Connect Wallet",
-    "link": "/contact"
+    "link": "/"
   },
 
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "Ekolance LMS.",
     "copyright": "Designed and Developed By [Ekolance LMS](https://google.com/)"
   },
 

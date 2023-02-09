@@ -5,7 +5,7 @@ banner:
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
-    link: "/contact"
+    link: "/"
 
 # feature
 feature: 
@@ -41,7 +41,7 @@ services:
     button:
       enable: true
       label: Check it out
-      link: /contact
+      link: /
 
   - title: "Our graduants are making money. Don't fade out!"
     content: "We reached out to our previous graduants and here is statistic of their earnings."
@@ -50,7 +50,7 @@ services:
     button:
       enable: true
       label: Check it out
-      link: /contact
+      link: /
   
   - title: "So far so good, our progress and achievements so far has been great!"
     content: ""
@@ -61,7 +61,7 @@ services:
     button:
       enable: true
       label: Check it out
-      link: /contact
+      link: /
 
   - title: "A company that offers web3 training for free!"
     content: ""
@@ -72,7 +72,7 @@ services:
     button:
       enable: true
       label: Check it out
-      link: /contact
+      link: /
 
 # workflow
 workflow: 
@@ -83,7 +83,7 @@ workflow:
 # call_to_action
 call_to_action:
   title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  content: Ekolance LMS.
   image: '/images/cta.svg'
   button:
     enable: true
