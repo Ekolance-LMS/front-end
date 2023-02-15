@@ -17,7 +17,7 @@
   "nav_button": {
     "enable": true,
     "label": "Connect Wallet",
-    "link": "/"
+    "link": "/contact"
   },
 
   "params": {
