@@ -9,7 +9,8 @@ import { Web3Modal, Web3Button } from "@web3modal/react";
 import { configureChains, createClient, WagmiConfig } from "wagmi";
 
 import { arbitrum, mainnet, polygon } from "wagmi/chains";
-import CustomButton from "./components/CustomButton";
+// import CustomButton from "./components/CustomButton";
+
 
 const chains = [arbitrum, mainnet, polygon];
 
